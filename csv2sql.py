@@ -10,7 +10,7 @@ lines = [line.replace("\n", "").split(",") for line in lines]
 
 with open("data.1.29.sql", "w") as f:
 	for line in lines:
-		edate = "2019." + line[0].replace("月", ".")
+		edate = "2020." + line[0].replace("月", ".")
 		etype = line[1]
 		enum = line[2]
 		eplace = line[3]
