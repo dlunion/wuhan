@@ -2,13 +2,13 @@ import os
 import sys
 
 
-with open("data.1.29.csv", "r") as f:
+with open("data.1.30.update.csv", "r") as f:
 	lines = f.readlines()
 
 lines = lines[1:]
 lines = [line.replace("\n", "").split(",") for line in lines]
 
-with open("data.1.29.sql", "w") as f:
+with open("data.1.30.sql", "w") as f:
 	for line in lines:
 		edate = "2020." + line[0].replace("月", ".")
 		etype = line[1]
