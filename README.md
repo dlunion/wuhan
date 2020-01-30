@@ -1,6 +1,9 @@
 # 武汉疫情牵动我心
 武汉疫情感染车次/航班信息统计收集，希望人们能够尽快查询到自己航班、车次是否存在感染，尽早做出正确的决定
 
+# 最新消息
+根据人民日报最新消息，官方发布查询工具，[https://h5.peopleapp.com/txcx/index.html](https://h5.peopleapp.com/txcx/index.html)，该工具系统推荐和支持。谢谢。参见[官方发布文章](https://mp.weixin.qq.com/s/b5EF82pEKo9qnngTerBpzA)
+
 # 更新时间
 * 目前最新更新的是2020年1月30日 09:18:15
 
